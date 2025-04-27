@@ -20,4 +20,4 @@ Git and GitHub for version control
 
 ## clone this repo
 git clone https://github.com/Erramshettiabhilash/ML-for-Intrusion-Detection.git
-cd ML-for-Intrusion-Detection
+
